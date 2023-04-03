@@ -1,6 +1,6 @@
 import datetime
-from people import get_employees
-from salary import calculate_salary
+from Module1.people import get_employees
+from Module1.salary import calculate_salary
 
 
 name1 = input('Введите мое имя!').lower()
