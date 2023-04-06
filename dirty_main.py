@@ -1,4 +1,4 @@
-from Module1.main import *
+from main import *
 
 if __name__ == '__main__':
     calculate_salary(number, number2)
